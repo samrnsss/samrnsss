@@ -13,8 +13,11 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 ### 🧠 Currently
 
 🌱 Diving deep into **DSA with Java**
+
 🤖 Getting ready to explore **AI & Full-Stack Development**
+
 💻 Strengthening my **Web Development** skills
+
 🧩 Improving my **problem-solving & programming** skills
 
 ---
