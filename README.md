@@ -60,4 +60,4 @@ Have an idea? Want to collaborate? Or simply want to say hi?
 💌 **Email** · [samreen22g@gmail.com](mailto:samreen22g@gmail.com)
 💼 **LinkedIn** · [linkedin.com/in/samreenb22](https://www.linkedin.com/in/samreenb22)
 
-> *Let's make something interesting together.*
+> **Let's make something interesting together.**
