@@ -2,7 +2,7 @@
 
 You've somehow wandered into my GitHub.
 
-I'm Samreen — a Computer Science student currently learning, building, breaking things, and putting them back together.
+I'm Samreen — a Computer Engineering student currently learning, building, breaking things, and putting them back together.
 
 > *Figuring things out, one line of code at a time.*
 
