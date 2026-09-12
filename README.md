@@ -38,12 +38,6 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 
 ---
 
-### 🌷 Beyond the Code
-
-When I'm not coding, I'm probably **lost in a book or somewhere inside the pages of my journal.**
-
----
-
 ### ✨ A little motto
 
 > **Stay curious. Keep learning. Build things.**
