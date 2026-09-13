@@ -1,4 +1,7 @@
 # Hello, stranger! 👋🏻
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=samrnsss&label=Profile+Views&color=blue&style=flat-square" alt="Profile views"/>
+</p>
 
 You've somehow wandered into my GitHub.
 
@@ -35,6 +38,15 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 **Currently Learning**
 
 `DSA` · `AI` · `Full-Stack Development`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrnsss&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrnsss&layout=compact&theme=transparent" height="170"/>
+</p>
 
 ---
 
