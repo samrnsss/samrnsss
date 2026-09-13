@@ -41,14 +41,6 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrnsss&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrnsss&layout=compact&theme=transparent" height="170"/>
-</p>
-
----
 
 ## 🐍 My Contributions
 
