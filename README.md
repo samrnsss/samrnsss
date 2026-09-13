@@ -38,6 +38,13 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 
 ---
 
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/samrnsss/samrnsss/gh-pages/github-contribution-grid-snake.svg)
+
+
+---
+
 ### ✨ A little motto
 
 > **Stay curious. Keep learning. Build things.**
