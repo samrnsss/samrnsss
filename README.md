@@ -33,6 +33,9 @@ I'm curious about **technology, AI, and building things that actually work.** I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="React"/>
+  
+  
 </p>
 
 **Currently Learning**
@@ -42,20 +45,20 @@ I'm curious about **technology, AI, and building things that actually work.** I 
 ---
 
 
-## 🐍 My Contributions
+## My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/samrnsss/samrnsss/gh-pages/github-contribution-grid-snake.svg)
 
 
 ---
 
-### ✨ A little motto
+###  A little motto
 
 > **Stay curious. Keep learning. Build things.**
 
 ---
 
-### 🌙 Come Say Hello
+### Come Say Hello
 
 Found something interesting here?
 Have an idea? Want to collaborate? Or simply want to say hi?
