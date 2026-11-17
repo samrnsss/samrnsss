@@ -1,72 +1,104 @@
-# Hello, stranger! 👋🏻
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samrnsss&label=Profile+Views&color=blue&style=flat-square" alt="Profile views"/>
-</p>
+<div align="center">
 
-You've somehow wandered into my GitHub.
+# SAMREEN BANO
 
-I'm Samreen — a Computer Engineering student currently learning, building, breaking things, and putting them back together.
+### Computer Engineering Student | Aspiring Machine Learning Engineer
 
-> *Figuring things out, one line of code at a time.*
 
-I'm curious about **technology, AI, and building things that actually work.** I enjoy learning by doing — exploring new technologies, solving problems, and figuring things out along the way.
+Learning, experimenting and building my way into Machine Learning and Artificial Intelligence.
 
----
+<a href="https://www.linkedin.com/in/samreenb22/">
+  <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://github.com/samrnsss">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🧠 Currently
-
-🌱 Diving deep into **DSA with Java**
-
-🤖 Getting ready to explore **AI & Full-Stack Development**
-
-💻 Strengthening my **Web Development** skills
-
-🧩 Improving my **problem-solving & programming** skills
+</div>
 
 ---
 
-### 🛠️ Tech I Know
+## About Me
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="React"/>
-  
-  
-</p>
-
-**Currently Learning**
-
-`DSA` · `AI` · `Full-Stack Development`
+- Computer Engineering undergraduate
+- Interested in Machine Learning and AI
+- Learning Python for ML applications
+- Practising Data Structures and Algorithms using Java
+- Exploring the intersection of software development and AI
 
 ---
 
+## Technical Skills
 
-## My Contributions
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Snake animation](https://raw.githubusercontent.com/samrnsss/samrnsss/gh-pages/github-contribution-grid-snake.svg)
+**Programming Languages**
 
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Machine Learning & Data Science**
+
+`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-###  A little motto
+## Current Focus
 
-> **Stay curious. Keep learning. Build things.**
+`Machine Learning` · `ML Engineering` · `Java DSA` · `System Design` · `OS` · `DBMS` · `Computer Networks`
 
 ---
 
-### Come Say Hello
+## GitHub Activity
 
-Found something interesting here?
-Have an idea? Want to collaborate? Or simply want to say hi?
+<div align="center">
 
-**My inbox is open. 🌷**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samrnsss&bg_color=0d1117&color=8b949e&line=8b7cf6&point=58a6ff&area=true&area_color=8b7cf6&hide_border=true" />
 
-💌 **Email** · [samreen22g@gmail.com](mailto:samreen22g@gmail.com)
+</div>
 
-💼 **LinkedIn** · [linkedin.com/in/samreenb22](https://www.linkedin.com/in/samreenb22)
+## GitHub Statistics
 
-> **Let's make something interesting together.**
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samrnsss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b7cf6&icon_color=58a6ff&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=samrnsss&hide_border=true&background=0d1117&ring=8b7cf6&fire=58a6ff&currStreakLabel=8b7cf6&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+### A Little Motto
+
+*Stay curious. Keep learning. Build things.*
+
+<br/>
+
+</div>
