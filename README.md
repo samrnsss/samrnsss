@@ -13,7 +13,9 @@ Learning, experimenting and building my way into Machine Learning and Artificial
 <a href="https://github.com/samrnsss">
   <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<a href="https://leetcode.com/u/samrnss">
+  <img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor="orange" />
+</a>
 </div>
 
 ---
@@ -69,7 +71,7 @@ Learning, experimenting and building my way into Machine Learning and Artificial
 
 ## Current Focus
 
-`Machine Learning` · `ML Engineering` · `Java DSA` · `System Design` · `OS` · `DBMS` · `Computer Networks`
+`Machine Learning` · `Java DSA` · `System Design` · `OS` · `DBMS` · `Computer Networks`
 
 ---
 
